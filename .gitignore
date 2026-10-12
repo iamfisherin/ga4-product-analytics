@@ -1,0 +1,25 @@
+﻿# Python virtual environments
+.venv/
+venv/
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+credentials/
+.streamlit/secrets.toml
+
+# Local data exports
+data/raw/
+data/processed/
+
+# Editor and operating system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
