@@ -40,3 +40,43 @@
 - Missing session_start causes have not been established.
 - Session counts describe sessions observed within the selected data window.
 - Event duplication, timestamp ordering, transactions, and revenue require further auditing.
+
+## Purchase and transaction audit
+- Purchase events: 5,692
+- Events with blank or null transaction_id: 23
+- Events with known placeholder transaction_id: 883
+- Events with missing purchase revenue: 0
+- Events with zero purchase revenue: 450
+- Events with negative purchase revenue: 0
+- Purchase events without items: 2
+- No duplicate groups under (user_pseudo_id, ga_session_id, event_name, event_timestamp).
+- No missing event timestamps.
+
+## Candidate order key validation
+- Usable-ID purchase events: 4,786
+- Distinct usable transaction_id values: 4,451
+- Fifteen transaction IDs span users and have different revenues.
+- Adopt (user_pseudo_id, transaction_id) as the sample-specific order proxy.
+- Distinct user-transaction pairs: 4,466
+- Repeated pairs: 314; additional purchase events: 320
+- Every pair has consistent ecommerce content and stays within one date and session.
+- Item payloads differ in 287 repeated pairs.
+- Item row counts, total quantities, and item revenue sums are consistent within repeated pairs.
+- Sixty-two repeated pairs contain an item-total versus transaction-revenue mismatch.
+- These checks do not establish the cause of repeated purchase reporting.
+
+## Revenue reconciliation (USD)
+| Scope | Counting unit | Count | Source purchase events | Revenue |
+|---|---|---:|---:|---:|
+| Identifiable orders, deduplicated | User-transaction pair | 4466 | 4786 | 308830 |
+| Missing transaction ID, raw | Purchase event | 23 | 23 | 1328 |
+| Placeholder transaction ID, raw | Purchase event | 883 | 883 | 30489 |
+| All purchases, raw baseline | Purchase event | 5692 | 5692 | 362165 |
+
+## Reporting rules
+- Use identifiable order count and deduplicated identifiable purchase revenue as primary order metrics.
+- Report unresolved-ID event counts and raw revenue separately.
+- Retain all purchase events for user/session purchase-presence flags.
+- Do not blindly sum item revenue across repeated purchase events.
+- Do not describe these sample metrics as verified real-world sales.
+- Purchase revenue here does not deduct refunds and is not net revenue.
