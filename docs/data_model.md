@@ -107,8 +107,24 @@ Completed:
 - Daily activity model and exact-day overall/daily/monthly cohort retention.
 
 Remaining:
-- Product-level analysis, subject to item-payload limitations.
+- Product conversion funnel deferred in v1 because item-event coverage and semantics differ.
 - Clearly labeled simulated experiments, randomization checks, and power/MDE planning.
 - Streamlit dashboard, business report, README, and resume descriptions.
 
 No real randomized experiment or causal product effect has been established.
+
+## Product analysis (v1)
+Completed product audits and descriptive recorded-revenue analysis:
+- sql/audit/14_item_event_quality.sql
+- sql/audit/15_add_to_cart_item_sample.sql
+- sql/audit/16_order_item_revenue_reconciliation.sql
+- sql/audit/17_order_item_identifiers.sql
+- sql/analysis/12_product_recorded_revenue_ranking.sql
+- sql/analysis/13_product_revenue_concentration.sql
+
+These queries read stg_events and mart_orders; no additional model is created.
+Representative lists contain 13274 rows and 789 usable item IDs.
+Recorded item revenue is USD 308751; identifiable order revenue remains USD 308830.
+The USD -79 net difference is not force-adjusted.
+Product event arrays are not assumed to identify all actual product actions.
+See docs/product_findings.md for coverage, reconciliation, ranking and limitations.
