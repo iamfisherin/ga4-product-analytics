@@ -1,0 +1,4 @@
+acquisition_quality_group,started_sessions,pct_of_started_sessions,strict_purchase_sessions,any_purchase_sessions,strict_funnel_completion_pct,purchase_presence_pct
+1_unknown_or_obfuscated,117429,33.09,975,1744,0.83,1.49
+2_store_domain_source,28044,7.9,331,567,1.18,2.02
+3_other_named_sources,209384,59.01,1429,2434,0.68,1.16

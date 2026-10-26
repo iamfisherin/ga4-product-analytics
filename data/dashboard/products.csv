@@ -1,0 +1,790 @@
+revenue_rank,item_id,display_item_name,distinct_item_names,representative_item_rows,identifiable_orders_with_item,purchasing_user_ids,recorded_item_revenue_usd,item_revenue_share_pct,cumulative_revenue_share_pct
+1,9195292,Google Canteen Bottle Black,1,130,130,106,4930.0,1.6,1.6
+2,9195140,Google Utility BackPack,1,47,47,35,4752.0,1.54,3.14
+3,9195130,Google Zip Hoodie F/C,1,75,75,74,4020.0,1.3,4.44
+4,9194259,Google Campus Bike,1,97,97,89,3840.0,1.24,5.68
+5,9197759,Google Incognito Techpack V2,1,36,36,24,3563.0,1.15,6.84
+6,9199130,Super G Unisex Joggers,1,93,93,79,3072.0,0.99,7.83
+7,9196652,Google Heathered Pom Beanie,1,171,171,158,2844.0,0.92,8.75
+8,9195032,Google Camp Mug Ivory,1,189,189,167,2756.0,0.89,9.64
+9,9184916,Google Crewneck Sweatshirt Navy,1,53,53,52,2618.0,0.85,10.49
+10,9196606,Google Badge Heavyweight Pullover Black,1,47,47,47,2528.0,0.82,11.31
+11,9184915,Google Crewneck Sweatshirt Navy,1,55,55,51,2508.0,0.81,12.12
+12,9195841,Google Perk Thermal Tumbler,1,95,95,86,2496.0,0.81,12.93
+13,9196717,Google Men's Tech Fleece Vest Charcoal,1,35,35,34,2459.0,0.8,13.73
+14,9196765,Google Men's Tech Fleece Grey,1,30,30,28,2398.0,0.78,14.5
+15,9199220,Google Land & Sea Cotton Cap,1,114,114,99,2253.0,0.73,15.23
+16,9196605,Google Badge Heavyweight Pullover Black,1,35,35,35,2159.0,0.7,15.93
+17,9190330,Google Crew Socks,1,127,127,118,2113.0,0.68,16.62
+18,9184913,Google Crewneck Sweatshirt Navy,1,45,45,45,2112.0,0.68,17.3
+19,9196653,Google Speckled Beanie Navy,1,85,85,82,2100.0,0.68,17.98
+20,9188227,Google Flat Front Bag Grey,1,81,81,57,2076.0,0.67,18.65
+21,9196759,Google Women's Puff Jacket Black,1,22,22,22,2047.0,0.66,19.32
+22,9199131,Super G Unisex Joggers,1,56,56,53,1918.0,0.62,19.94
+23,9195709,Google Leather Strap Hat Blue,1,108,108,105,1794.0,0.58,20.52
+24,9195031,Google Thermal Tumbler Navy,1,76,76,67,1779.0,0.58,21.1
+25,9195830,Google Glass Bottle,1,83,83,73,1773.0,0.57,21.67
+26,9196753,Google Men's Puff Jacket Black,1,19,19,18,1771.0,0.57,22.24
+27,9196849,Android Iconic Crewneck Sweatshirt,1,37,37,31,1760.0,0.57,22.81
+28,9196637,Google Red Speckled Tee,1,54,54,54,1722.0,0.56,23.37
+29,9180865,Google Metallic Notebook Set,1,120,120,112,1702.0,0.55,23.92
+30,9195127,Google Zip Hoodie F/C,1,34,34,34,1692.0,0.55,24.47
+31,9196727,Google Woodtop Bottle Black,1,57,57,48,1668.0,0.54,25.01
+32,9195359,Noogler Android Figure,1,92,92,91,1656.0,0.54,25.55
+33,9195131,Google Zip Hoodie F/C,1,27,27,27,1644.0,0.53,26.08
+34,9195949,Google Crew Combed Cotton Sock,1,80,80,73,1632.0,0.53,26.61
+35,9196615,Google Crewneck Sweatshirt Green,1,35,35,34,1628.0,0.53,27.14
+36,9196767,Google Men's Tech Fleece Grey,1,20,20,20,1580.0,0.51,27.65
+37,9196629,Google Navy Speckled Tee,1,56,56,55,1506.0,0.49,28.14
+38,9196616,Google Crewneck Sweatshirt Green,1,31,31,30,1496.0,0.48,28.62
+39,9196766,Google Men's Tech Fleece Grey,1,19,19,19,1492.0,0.48,29.1
+40,9195971,Google Chrome Dinosaur Collectible,1,51,51,51,1488.0,0.48,29.59
+41,9185158,Google Crewneck Sweatshirt Grey,1,29,29,29,1485.0,0.48,30.07
+42,9196604,Google Badge Heavyweight Pullover Black,1,30,30,30,1476.0,0.48,30.54
+43,9195964,Google Seaport Tote,1,26,26,24,1464.0,0.47,31.02
+44,9196875,Google KeepCup,1,41,41,36,1442.0,0.47,31.49
+45,9197718,Google Incognito Zip Pack,1,23,23,23,1418.0,0.46,31.94
+46,9196676,Google Speckled Beanie Grey,1,57,57,56,1412.0,0.46,32.4
+47,9199129,Super G Unisex Joggers,1,41,41,40,1409.0,0.46,32.86
+48,9184914,Google Crewneck Sweatshirt Navy,1,30,30,28,1408.0,0.46,33.31
+49,9195129,Google Zip Hoodie F/C,1,27,27,24,1404.0,0.45,33.77
+50,9196275,Google Soft Modal Scarf,1,33,33,32,1386.0,0.45,34.22
+51,9196764,Google Men's Tech Fleece Grey,1,15,15,14,1386.0,0.45,34.67
+52,9200320,Google Black Cloud Zip Hoodie,1,20,20,19,1363.0,0.44,35.11
+53,9188208,Google Packable Bag Black,1,46,46,46,1348.0,0.44,35.55
+54,9200314,Google Camp Mug Gray,1,102,102,84,1340.0,0.43,35.98
+55,9200321,Google Black Cloud Zip Hoodie,1,18,18,15,1336.0,0.43,36.41
+56,9196755,Google Men's Puff Jacket Black,1,13,13,13,1334.0,0.43,36.84
+57,9196850,Android Iconic Crewneck Sweatshirt,1,25,25,24,1320.0,0.43,37.27
+58,9196636,Google Red Speckled Tee,1,51,51,51,1314.0,0.43,37.7
+59,9196863,Google Hemp Tote,1,48,48,48,1236.0,0.4,38.1
+60,9196664,Google Sherpa Zip Hoodie Charcoal,1,19,19,19,1225.0,0.4,38.49
+61,9196758,Google Women's Puff Jacket Black,1,12,12,10,1219.0,0.39,38.89
+62,9181148,Gift Card- $100.00,1,12,1,1,1200.0,0.39,39.28
+63,9195959,Google Large Tote White,1,67,67,66,1185.0,0.38,39.66
+64,9196966,Google NYC Campus Zip Hoodie,1,22,22,22,1179.0,0.38,40.04
+65,9196614,Google Crewneck Sweatshirt Green,1,26,26,26,1177.0,0.38,40.42
+66,9185002,Google Large Standard Journal Grey,1,68,68,62,1159.0,0.38,40.8
+67,9196663,Google Sherpa Zip Hoodie Charcoal,1,20,20,20,1155.0,0.37,41.17
+68,9197456,Google Super G Tumbler (Red Lid),1,43,43,39,1151.0,0.37,41.55
+69,9196617,Google Crewneck Sweatshirt Green,1,24,24,24,1133.0,0.37,41.91
+70,9188203,Google Clear Pen 4-Pack,1,126,126,123,1125.0,0.36,42.28
+71,9196628,Google Navy Speckled Tee,1,39,39,38,1122.0,0.36,42.64
+72,9188192,YouTube Twill Sandwich Cap Black,1,80,80,78,1113.0,0.36,43.0
+73,9196848,Android Iconic Crewneck Sweatshirt,1,25,25,24,1111.0,0.36,43.36
+74,9196661,Google Sherpa Zip Hoodie Charcoal,1,17,17,17,1101.0,0.36,43.72
+75,9196738,Google Cork Base Tumbler,1,36,36,31,1098.0,0.36,44.07
+76,9199224,Google Land & Sea Nalgene Water Bottle,1,46,46,42,1095.0,0.35,44.43
+77,9196602,Google Badge Heavyweight Pullover Black,1,21,21,21,1083.0,0.35,44.78
+78,9200710,Google Knit Blanket,1,14,14,14,1069.0,0.35,45.13
+79,9195948,Google Crew Striped Athletic Sock,1,55,55,53,1067.0,0.35,45.47
+80,9199127,Google Blue Stojo Cup,1,34,34,34,1045.0,0.34,45.81
+81,9181149,Gift Card - $25.00,1,41,8,5,1025.0,0.33,46.14
+82,9180819,Google Laptop and Cell Phone Stickers,1,127,127,122,1011.0,0.33,46.47
+83,9196733,Google Cotopaxi Shell,1,26,26,25,1008.0,0.33,46.8
+84,9195741,Google Dino Game Tee,1,29,29,29,968.0,0.31,47.11
+85,9196862,Google Black Cork Journal,1,73,73,65,961.0,0.31,47.42
+86,9200199,Google Bear Baby Blanket Beige,1,35,35,33,951.0,0.31,47.73
+87,9196648,Google Sherpa Zip Hoodie Navy,1,15,15,14,950.0,0.31,48.04
+88,9196742,Google Men's Softshell Moss,1,11,11,11,949.0,0.31,48.34
+89,9196613,Google Crewneck Sweatshirt Green,1,19,19,19,935.0,0.3,48.65
+90,9197720,Google Incognito Dopp Kit V2,1,16,16,15,927.0,0.3,48.95
+91,9184917,Google Crewneck Sweatshirt Navy,1,19,19,18,924.0,0.3,49.25
+92,9188229,Google 24oz Ring Bottle Blue,1,41,41,41,919.0,0.3,49.54
+93,9196967,Google NYC Campus Zip Hoodie,1,23,23,22,917.0,0.3,49.84
+94,9185150,Google Women's Microfleece Jacket Black,1,15,15,15,915.0,0.3,50.14
+95,9195792,YouTube Icon Tee Charcoal,1,45,45,44,911.0,0.3,50.43
+96,9195197,Google F/C Longsleeve Charcoal,1,32,32,32,906.0,0.29,50.73
+97,9196869,Google Utensil Set,1,32,32,31,891.0,0.29,51.01
+98,9195712,YouTube Leather Strap Hat Black,1,62,62,58,885.0,0.29,51.3
+99,9196719,Google Men's Tech Fleece Vest Charcoal,1,11,11,11,883.0,0.29,51.59
+100,9195742,Google Dino Game Tee,1,22,22,22,880.0,0.29,51.87
+101,9196647,Google Sherpa Zip Hoodie Navy,1,16,16,14,880.0,0.29,52.16
+102,9194988,Google Women's Grid Zip-Up,1,15,15,14,878.0,0.28,52.44
+103,9195961,Google Campus Bike Mini Backpack,1,17,17,17,872.0,0.28,52.72
+104,9196950,Google NYC Campus Mug,1,82,82,81,853.0,0.28,53.0
+105,9196754,Google Men's Puff Jacket Black,1,9,9,9,851.0,0.28,53.28
+106,9199125,Google Land & Sea Mug,1,50,50,33,851.0,0.28,53.55
+107,9195198,Google F/C Longsleeve Charcoal,1,30,30,30,846.0,0.27,53.82
+108,9200364,White Google Shoreline Bottle,2,30,30,30,842.0,0.27,54.1
+109,9197719,Google Incognito Laptop Organizer,1,17,17,15,831.0,0.27,54.37
+110,9199084,Google Land & Sea Journal Set,1,53,53,40,816.0,0.26,54.63
+111,9197004,Google Austin Campus Mug,1,72,72,69,805.0,0.26,54.89
+112,9195203,Google F/C Longsleeve Ash,1,31,31,31,798.0,0.26,55.15
+113,9188221,Google Utility Bag Grey,1,53,53,53,794.0,0.26,55.41
+114,9196655,Google Raincoat Navy,1,8,8,8,792.0,0.26,55.66
+115,9184981,Google Small Standard Journal Navy,1,53,53,45,791.0,0.26,55.92
+116,9195831,Google Campus Bike Bottle,1,31,31,29,788.0,0.26,56.18
+117,9196649,Google Sherpa Zip Hoodie Navy,1,13,13,13,784.0,0.25,56.43
+118,9195840,YouTube Play Mug,1,51,51,43,782.0,0.25,56.68
+119,9196734,Google Cotopaxi Shell,1,19,19,18,780.0,0.25,56.94
+120,9195835,Google Campus Bike Corkbase Mug Blue,1,43,43,43,778.0,0.25,57.19
+121,9194989,Google Women's Grid Zip-Up,1,15,15,15,776.0,0.25,57.44
+122,9200322,Google Black Cloud Zip Hoodie,1,10,10,8,771.0,0.25,57.69
+123,9195132,Google Zip Hoodie F/C,1,15,15,15,768.0,0.25,57.94
+124,9190334,YouTube Crew Socks,1,38,38,35,766.0,0.25,58.19
+125,9195250,Google Toddler FC Zip Hoodie,1,26,26,26,756.0,0.24,58.43
+126,9195204,Google F/C Longsleeve Ash,1,28,28,26,750.0,0.24,58.67
+127,9195248,Google Toddler FC Zip Hoodie,1,25,25,25,749.0,0.24,58.92
+128,9195939,Google Campus Bike Grid Task Pad,1,20,20,20,738.0,0.24,59.15
+129,9196638,Google Red Speckled Tee,1,29,29,28,738.0,0.24,59.39
+130,9199132,Super G Unisex Joggers,1,23,23,21,733.0,0.24,59.63
+131,9196706,Google Cup Cap Tumbler Grey,1,24,24,21,732.0,0.24,59.87
+132,9197586,Google Seattle Campus Mug,1,58,58,58,730.0,0.24,60.1
+133,9196662,Google Sherpa Zip Hoodie Charcoal,1,13,13,13,729.0,0.24,60.34
+134,9195196,Google F/C Longsleeve Charcoal,1,24,24,24,708.0,0.23,60.57
+135,9185159,Google Crewneck Sweatshirt Grey,1,14,14,14,693.0,0.22,60.79
+136,9195202,Google F/C Longsleeve Ash,1,26,26,26,690.0,0.22,61.02
+137,9195267,Google Incognito Messenger Bag,1,11,11,11,690.0,0.22,61.24
+138,9196618,Google Crewneck Sweatshirt Green,1,13,13,12,682.0,0.22,61.46
+139,9195249,Google Toddler FC Zip Hoodie,1,23,23,23,679.0,0.22,61.68
+140,9196384,Google Mural Mug,1,42,42,41,675.0,0.22,61.9
+141,9198448,Daddy Works at Google Book,1,40,40,39,672.0,0.22,62.12
+142,9199082,Google Land & Sea Tote Bag,1,33,33,32,664.0,0.22,62.33
+143,9196716,Google Men's Tech Fleece Vest Charcoal,1,10,10,10,662.0,0.21,62.55
+144,9194987,Google Women's Grid Zip-Up,1,12,12,12,652.0,0.21,62.76
+145,9188315,Google Magnet,1,90,90,84,646.0,0.21,62.97
+146,9196768,Google Men's Tech Fleece Grey,1,9,9,9,639.0,0.21,63.18
+147,9195945,Google Campus Bike Tote Navy,1,52,52,49,635.0,0.21,63.38
+148,9196380,Google Mural Sticky Note Pad,1,44,44,44,631.0,0.2,63.59
+149,9196788,Google Mural Socks,1,43,43,32,618.0,0.2,63.79
+150,9196866,Google ApPeel Journal Red,1,17,17,17,618.0,0.2,63.99
+151,9195206,Google F/C Longsleeve Ash,1,24,24,24,606.0,0.2,64.18
+152,9196902,#IamRemarkable Journal,1,35,35,34,603.0,0.2,64.38
+153,9196752,Google Men's Puff Jacket Black,1,6,6,6,598.0,0.19,64.57
+154,9196630,Google Navy Speckled Tee,1,16,16,16,594.0,0.19,64.76
+155,9185155,Google Crewneck Sweatshirt Grey,1,13,13,12,583.0,0.19,64.95
+156,9195912,Womens Google Striped LS,1,31,31,31,581.0,0.19,65.14
+157,9196741,Google Men's Softshell Moss,1,7,7,7,573.0,0.19,65.33
+158,9195295,Android Techie 3D Framed Art,1,33,33,33,572.0,0.19,65.51
+159,9196785,Google Keychain,1,62,62,62,569.0,0.18,65.7
+160,9196718,Google Men's Tech Fleece Vest Charcoal,1,6,6,5,568.0,0.18,65.88
+161,9200319,Google Black Cloud Zip Hoodie,1,9,9,7,564.0,0.18,66.06
+162,9197569,Google PNW Campus Mug,1,55,55,55,562.0,0.18,66.24
+163,9195126,Google Zip Hoodie F/C,1,11,11,10,552.0,0.18,66.42
+164,9196621,Google Heather Green Speckled Tee,1,23,23,23,551.0,0.18,66.6
+165,9196665,Google Sherpa Zip Hoodie Charcoal,1,10,10,10,550.0,0.18,66.78
+166,9185157,Google Crewneck Sweatshirt Grey,1,12,12,12,539.0,0.17,66.95
+167,9196383,Google Mural Bottle,1,23,23,21,529.0,0.17,67.13
+168,9196657,Google Raincoat Navy,1,5,5,5,528.0,0.17,67.3
+169,9195928,Google Premium Sunglasses,1,30,30,29,522.0,0.17,67.47
+170,9195739,Google Dino Game Tee,1,16,16,16,520.0,0.17,67.63
+171,9196608,Google Badge Heavyweight Pullover Black,1,11,11,10,506.0,0.16,67.8
+172,9196731,Google Cotopaxi Shell,1,13,13,12,504.0,0.16,67.96
+173,9195199,Google F/C Longsleeve Charcoal,1,18,18,18,498.0,0.16,68.12
+174,9196737,Google Felt Refillable Journal,1,24,24,23,494.0,0.16,68.28
+175,9196631,Google Navy Speckled Tee,1,18,18,18,492.0,0.16,68.44
+176,9195738,Google Dino Game Tee,1,13,13,13,488.0,0.16,68.6
+177,9195548,Android Buoy Bottle,1,48,48,47,487.0,0.16,68.76
+178,9188197,Google See-No Hear-No Set,1,42,42,36,485.0,0.16,68.91
+179,9196846,Android Iconic Notebook,1,7,7,7,484.0,0.16,69.07
+180,9196756,Google Men's Puff Jacket Black,1,5,5,5,483.0,0.16,69.23
+181,9195549,Google Unisex Eco Tee Black,1,23,23,22,482.0,0.16,69.38
+182,9196977,Google Chicago Campus Mug,1,54,54,51,482.0,0.16,69.54
+183,9196656,Google Raincoat Navy,1,5,5,5,480.0,0.16,69.7
+184,9197568,Google PNW Campus Bottle,1,9,9,9,469.0,0.15,69.85
+185,9195825,YouTube Standards Zip Hoodie Black,1,9,9,9,468.0,0.15,70.0
+186,9195552,Google Unisex Eco Tee Black,1,23,23,21,463.0,0.15,70.15
+187,9188210,Google Mesh Bag Red,1,12,12,12,461.0,0.15,70.3
+188,9196760,Google Women's Puff Jacket Black,1,5,5,5,460.0,0.15,70.45
+189,9196801,Android Iconic Glass Bottle Green,1,13,13,13,460.0,0.15,70.6
+190,9196832,Android Pocket Onesie Navy,1,22,22,22,459.0,0.15,70.74
+191,9197457,Google Super G Tumbler (Blue Lid),1,20,20,17,458.0,0.15,70.89
+192,9196646,Google Sherpa Zip Hoodie Navy,1,8,8,8,454.0,0.15,71.04
+193,9196965,Google NYC Campus Zip Hoodie,1,10,10,10,451.0,0.15,71.19
+194,9185010,Google Bot,1,32,32,32,450.0,0.15,71.33
+195,9188201,Google Pen White,1,98,98,98,450.0,0.15,71.48
+196,9196603,Google Badge Heavyweight Pullover Black,1,9,9,9,450.0,0.15,71.62
+197,9196800,Android Iconic Mug Gray,1,26,26,26,443.0,0.14,71.77
+198,9197951,Google Sunnyvale Campus Mug,1,50,50,50,443.0,0.14,71.91
+199,9195205,Google F/C Longsleeve Ash,1,16,16,16,438.0,0.14,72.05
+200,9198825,Mural Food Container,1,12,12,11,437.0,0.14,72.19
+201,9196901,#IamRemarkable Water Bottle,1,21,21,21,435.0,0.14,72.33
+202,9196951,Google NYC Campus Bottle,1,33,33,32,431.0,0.14,72.47
+203,9184988,Google Emoji Sticker Pack,1,47,47,46,430.0,0.14,72.61
+204,9199205,Google Land & Sea French Terry Sweatshirt,1,9,9,9,429.0,0.14,72.75
+205,9197426,Google SF Campus Bottle,1,28,28,25,427.0,0.14,72.89
+206,9196895,Google Cork Passport Holder,1,21,21,21,426.0,0.14,73.03
+207,9197707,Google PNW Campus Zip Hoodie,1,11,11,11,426.0,0.14,73.17
+208,9197400,Google LA Campus Mug,1,52,52,49,422.0,0.14,73.3
+209,9195296,Android Super Hero 3D Framed Art,1,26,26,24,420.0,0.14,73.44
+210,9195551,Google Unisex Eco Tee Black,1,22,22,22,416.0,0.13,73.57
+211,9188234,Google Twill Cap Charcoal,1,31,31,30,415.0,0.13,73.71
+212,9200600,Google Bot (Multicolored),1,40,40,36,414.0,0.13,73.84
+213,9196274,YouTube Transmission Journal Red,1,17,17,15,411.0,0.13,73.98
+214,9195128,Google Zip Hoodie F/C,1,8,8,8,408.0,0.13,74.11
+215,9196917,#IamRemarkable Unisex Hoodie,1,13,13,13,407.0,0.13,74.24
+216,9185149,Google Women's Microfleece Jacket Black,1,6,6,6,405.0,0.13,74.37
+217,9188189,Google 16 oz Tumbler Blue,1,14,14,14,405.0,0.13,74.5
+218,9195710,Google Leather Strap Hat Black,1,26,26,22,405.0,0.13,74.63
+219,9196843,Android Iconic Backpack,1,6,6,6,400.0,0.13,74.76
+220,9195195,Google F/C Longsleeve Charcoal,1,16,16,16,396.0,0.13,74.89
+221,9196743,Google Men's Softshell Moss,1,5,5,5,395.0,0.13,75.02
+222,9188191,YouTube 25 oz Gear Cap Bottle Black,1,17,17,15,394.0,0.13,75.15
+223,9196777,Google Sherpa Vest Black,1,6,6,6,394.0,0.13,75.27
+224,9196779,Google Sherpa Vest Black,1,6,6,6,394.0,0.13,75.4
+225,9196623,Google Heather Green Speckled Tee,1,16,16,16,392.0,0.13,75.53
+226,9196769,Google Men's Tech Fleece Grey,1,4,4,4,391.0,0.13,75.66
+227,9196813,Android Pocket Tee Navy,1,14,14,14,387.0,0.13,75.78
+228,9198447,Mommy Works at Google Book,1,23,23,23,384.0,0.12,75.91
+229,9195962,Essential Canvas Tote,1,13,13,13,383.0,0.12,76.03
+230,9197994,YouTube Jotter Task Pad,1,54,54,52,381.0,0.12,76.15
+231,9197414,Google SF Campus Zip Hoodie,1,11,11,10,379.0,0.12,76.28
+232,9196812,Android Pocket Tee Navy,1,14,14,14,376.0,0.12,76.4
+233,9185152,Google Women's Microfleece Jacket Black,1,6,6,6,375.0,0.12,76.52
+234,9199737,Super G Unisex Joggers,1,12,12,12,374.0,0.12,76.64
+235,9196814,Android Pocket Tee Navy,1,15,15,15,369.0,0.12,76.76
+236,9196761,Google Women's Puff Jacket Black,1,4,4,4,368.0,0.12,76.88
+237,9196783,YouTube Iconic Play Pin,1,26,26,26,368.0,0.12,77.0
+238,9196724,Google Women's Tech Fleece Vest Charcoal,1,8,8,8,363.0,0.12,77.12
+239,9196729,Google LoveHandle Black,1,25,25,25,360.0,0.12,77.23
+240,9196894,Google Cork Card Holder,1,23,23,23,360.0,0.12,77.35
+241,9200323,Google Black Cloud Zip Hoodie,1,4,4,3,358.0,0.12,77.46
+242,9180818,Keyboard DOT Sticker,1,59,59,57,355.0,0.11,77.58
+243,9195798,YouTube Icon Tee Grey,1,17,17,17,355.0,0.11,77.69
+244,9196771,Google Women's Tech Fleece Grey,1,5,5,5,355.0,0.11,77.81
+245,9195211,Google Tudes Recycled Tee,1,13,13,13,354.0,0.11,77.92
+246,9195237,Google Toddler FC Tee Charcoal,1,14,14,14,350.0,0.11,78.04
+247,9199133,Super G Unisex Joggers,1,10,10,10,350.0,0.11,78.15
+248,9196735,Google Cotopaxi Shell,1,9,9,8,342.0,0.11,78.26
+249,9196671,Google Infant Hero Onesie Grey,1,17,17,17,340.0,0.11,78.37
+250,9196784,Google Emoji Magnet Set,1,34,34,34,336.0,0.11,78.48
+251,9196855,Android Iconic Hat White,1,21,21,21,336.0,0.11,78.59
+252,9196693,Google Youth Hero Tee Grey,1,15,15,15,333.0,0.11,78.7
+253,9196720,Google Men's Tech Fleece Vest Charcoal,1,5,5,5,331.0,0.11,78.8
+254,9196721,Google Men's Tech Fleece Vest Charcoal,1,5,5,5,331.0,0.11,78.91
+255,9196728,Android Iconic Socks,1,19,19,19,331.0,0.11,79.02
+256,9196645,Google Sherpa Zip Hoodie Navy,1,6,6,6,330.0,0.11,79.13
+257,9195913,Womens Google Striped LS,1,20,20,20,328.0,0.11,79.23
+258,9195827,YouTube Standards Zip Hoodie Black,1,6,6,6,324.0,0.1,79.34
+259,9195911,Womens Google Striped LS,1,20,20,20,324.0,0.1,79.44
+260,9197412,Google SF Campus Zip Hoodie,1,9,9,9,321.0,0.1,79.55
+261,9197423,Google SF Campus Tote,1,31,31,31,321.0,0.1,79.65
+262,9196770,Google Women's Tech Fleece Grey,1,4,4,4,320.0,0.1,79.75
+263,9196854,Android Iconic Hat Green,1,22,22,22,320.0,0.1,79.86
+264,9185160,Google Crewneck Sweatshirt Grey,1,7,7,7,319.0,0.1,79.96
+265,9196747,Google Women's Softshell Moss,1,4,4,4,316.0,0.1,80.06
+266,9196748,Google Women's Softshell Moss,1,4,4,4,316.0,0.1,80.16
+267,9196922,Google Cambridge Campus Mug,1,41,41,40,316.0,0.1,80.27
+268,9185151,Google Women's Microfleece Jacket Black,1,5,5,5,315.0,0.1,80.37
+269,9184912,Google Crewneck Sweatshirt Navy,1,7,7,7,308.0,0.1,80.47
+270,9197603,Google Kirkland Campus Mug,1,18,18,18,307.0,0.1,80.57
+271,9196939,Google Cambridge Campus Zip Hoodie,1,9,9,9,306.0,0.1,80.67
+272,9195550,Google Unisex Eco Tee Black,1,16,16,16,304.0,0.1,80.77
+273,9196711,Google Split Seam Tee Olive,1,14,14,13,304.0,0.1,80.86
+274,9196732,Google Cotopaxi Shell,1,7,7,7,304.0,0.1,80.96
+275,9194990,Google Women's Grid Zip-Up,1,6,6,6,300.0,0.1,81.06
+276,9195735,Google Campus Bike Eco Tee Navy,1,12,12,12,300.0,0.1,81.16
+277,9196762,Google Women's Puff Jacket Black,1,3,3,3,299.0,0.1,81.25
+278,9196390,Supernatural Paper Tote,1,13,13,10,298.0,0.1,81.35
+279,9196856,Android Iconic Hat Black,1,26,26,26,298.0,0.1,81.45
+280,9197413,Google SF Campus Zip Hoodie,1,8,8,8,298.0,0.1,81.54
+281,9180825,Google Sunglasses,1,44,44,44,291.0,0.09,81.64
+282,9180827,Google Sunglasses,1,42,42,41,290.0,0.09,81.73
+283,9188310,Android SM S/F18 Sticker Sheet,1,97,97,86,288.0,0.09,81.83
+284,9195918,Google Summer19 Crew Grey,1,8,8,8,288.0,0.09,81.92
+285,9196607,Google Badge Heavyweight Pullover Black,1,6,6,6,288.0,0.09,82.01
+286,9196624,Google Heather Green Speckled Tee,1,12,12,12,288.0,0.09,82.1
+287,9197380,Google LA Campus Unisex Tee,1,19,19,18,288.0,0.09,82.2
+288,9195882,Unisex Google Pocket Tee Grey,1,15,15,14,284.0,0.09,82.29
+289,9196786,Google Lapel Pin,1,38,38,38,284.0,0.09,82.38
+290,9195919,Google Summer19 Crew Grey,1,8,8,8,280.0,0.09,82.47
+291,9184829,Google Light Pen Blue,1,83,83,83,279.0,0.09,82.56
+292,9197026,Google Austin Campus Tote,1,17,17,16,278.0,0.09,82.65
+293,9197810,Supernatural Paper Backpack,1,6,6,4,276.0,0.09,82.74
+294,9196978,Google Chicago Campus Bottle,1,15,15,14,275.0,0.09,82.83
+295,9196907,#IamRemarkable Unisex T-Shirt,1,17,17,17,271.0,0.09,82.92
+296,9195200,Google F/C Longsleeve Charcoal,1,10,10,10,270.0,0.09,83.01
+297,9196775,Google Sherpa Vest Black,1,4,4,4,268.0,0.09,83.09
+298,9196857,Android Iconic Beanie,1,26,26,26,268.0,0.09,83.18
+299,9195238,Google Toddler FC Tee Charcoal,1,12,12,12,265.0,0.09,83.27
+300,9195966,Google Clear Framed Yellow Shades,1,38,38,38,265.0,0.09,83.35
+301,9196938,Google Cambridge Campus Zip Hoodie,1,8,8,8,265.0,0.09,83.44
+302,9196994,Google Chicago Campus Zip Hoodie,1,8,8,7,265.0,0.09,83.52
+303,9196635,Google Red Speckled Tee,1,10,10,10,264.0,0.09,83.61
+304,9196723,Google Women's Tech Fleece Vest Charcoal,1,5,5,5,264.0,0.09,83.69
+305,9196847,Android Iconic Crewneck Sweatshirt,1,6,6,6,264.0,0.09,83.78
+306,9199201,Google Land & Sea French Terry Sweatshirt,1,6,6,6,264.0,0.09,83.87
+307,9188198,Google Small Cable Organizer Blue,1,19,19,19,261.0,0.08,83.95
+308,9195244,Google Infant Charcoal Onesie,1,12,12,12,260.0,0.08,84.03
+309,9195731,Google Campus Bike Eco Tee Navy,1,10,10,10,260.0,0.08,84.12
+310,9196858,Google Recycled Writing Set,1,42,42,42,259.0,0.08,84.2
+311,9196694,Google Youth Hero Tee Grey,1,10,10,10,258.0,0.08,84.29
+312,9196745,Google Men's Softshell Moss,1,3,3,3,257.0,0.08,84.37
+313,9188209,Google Mesh Bag Blue,1,31,31,30,256.0,0.08,84.45
+314,9197020,Google Austin Campus Zip Hoodie,1,8,8,8,256.0,0.08,84.54
+315,9195927,Google Blue Kids Sunglasses,1,39,39,39,255.0,0.08,84.62
+316,9200362,Google Cloud Pen,1,44,44,42,251.0,0.08,84.7
+317,9181151,Gift Card - $50.00,1,5,3,3,250.0,0.08,84.78
+318,9195226,Google Youth FC Tee Charcoal,1,12,12,12,250.0,0.08,84.86
+319,9195736,Google Campus Bike Eco Tee Navy,1,10,10,10,250.0,0.08,84.94
+320,9196389,Supernatural Paper Lunch Sack,1,12,12,12,247.0,0.08,85.02
+321,9197368,Google Boulder Campus Mug,1,30,30,30,247.0,0.08,85.1
+322,9195231,Google Youth FC Longsleeve Charcoal,1,9,9,9,246.0,0.08,85.18
+323,9195236,Google Toddler FC Tee Charcoal,1,12,12,12,245.0,0.08,85.26
+324,9188228,Google 24 oz Ring Bottle Red,1,29,29,27,243.0,0.08,85.34
+325,9197592,Google Kirkland Campus Unisex Tee,1,10,10,10,242.0,0.08,85.42
+326,9195265,Google Incognito Flap Pack,1,4,4,4,240.0,0.08,85.5
+327,9196916,#IamRemarkable Unisex Hoodie,1,7,7,7,239.0,0.08,85.57
+328,9196412,Google Beekeepers Tee Mint,1,17,17,16,238.0,0.08,85.65
+329,9196993,Google Chicago Campus Zip Hoodie,1,6,6,6,234.0,0.08,85.73
+330,9197705,Google PNW Campus Zip Hoodie,1,7,7,7,233.0,0.08,85.8
+331,9184830,Google Light Pen Red,1,65,65,65,232.0,0.08,85.88
+332,9196427,Stan and Friends Tee Green,1,15,15,15,232.0,0.08,85.95
+333,9195247,Google Infant Charcoal Onesie,1,10,10,10,230.0,0.07,86.03
+334,9196381,Google Mural Notebook,1,15,15,13,228.0,0.07,86.1
+335,9195228,Google Youth FC Tee Charcoal,1,10,10,10,225.0,0.07,86.17
+336,9197386,Google LA Campus Zip Hoodie,1,6,6,6,225.0,0.07,86.25
+337,9196699,Google Youth Hero Tee Maroon,1,10,10,10,224.0,0.07,86.32
+338,9196891,Google Medium Pet Leash (Blue/Green),1,7,7,7,224.0,0.07,86.39
+339,9197021,Google Austin Campus Zip Hoodie,1,7,7,6,224.0,0.07,86.46
+340,9197706,Google PNW Campus Zip Hoodie,1,7,7,7,224.0,0.07,86.54
+341,9197986,Google Sunnyvale Campus Zip Hoodie,1,7,7,5,224.0,0.07,86.61
+342,9197988,Google Sunnyvale Campus Zip Hoodie,1,7,7,7,224.0,0.07,86.68
+343,9180826,Google Sunglasses,1,34,34,34,223.0,0.07,86.75
+344,9195967,Google Clear Framed Blue Shades,1,48,48,47,223.0,0.07,86.83
+345,9195229,Google Youth FC Longsleeve Charcoal,1,8,8,8,222.0,0.07,86.9
+346,9195968,Google Clear Framed Gray Shades,1,36,36,35,222.0,0.07,86.97
+347,9185146,Google Mens Microfleece Jacket Black,1,5,5,5,221.0,0.07,87.04
+348,9196780,Google Sherpa Vest Black,1,3,3,3,221.0,0.07,87.11
+349,9195263,Google Toddler FC Tee Charcoal,1,10,10,9,220.0,0.07,87.18
+350,9196805,Android Pocket Tee Green,1,8,8,8,219.0,0.07,87.26
+351,9196918,#IamRemarkable Unisex Hoodie,1,6,6,6,219.0,0.07,87.33
+352,9195936,Google Color Block Notebook,1,12,12,12,218.0,0.07,87.4
+353,9195230,Google Youth FC Longsleeve Charcoal,1,9,9,9,216.0,0.07,87.47
+354,9195227,Google Youth FC Tee Charcoal,1,7,7,7,215.0,0.07,87.54
+355,9196709,Google Split Seam Tee Olive,1,9,9,9,215.0,0.07,87.61
+356,9195801,YouTube Icon Tee Grey,1,11,11,11,214.0,0.07,87.68
+357,9197713,Google PNW Campus Unisex Tee,1,15,15,15,214.0,0.07,87.74
+358,9180823,Google Mini Kick Ball,1,30,30,30,213.0,0.07,87.81
+359,9195937,Google Confetti Task Pad,1,22,22,22,211.0,0.07,87.88
+360,9195791,YouTube Icon Tee Charcoal,1,11,11,11,210.0,0.07,87.95
+361,9196870,Google Sustainable Pencil Pouch,1,23,23,23,210.0,0.07,88.02
+362,9197387,Google LA Campus Zip Hoodie,1,6,6,6,210.0,0.07,88.09
+363,9197814,Google Large Pet Leash (Red/Yellow),1,7,7,7,210.0,0.07,88.15
+364,9184749,Android Large Removable Sticker Sheet,1,47,47,46,207.0,0.07,88.22
+365,9195946,Google Campus Bike Carry Pouch,1,21,21,21,207.0,0.07,88.29
+366,9184831,Google Light Pen Green,1,56,56,56,205.0,0.07,88.35
+367,9195245,Google Infant Charcoal Onesie,1,10,10,10,205.0,0.07,88.42
+368,9184850,Google Tee Yellow,1,21,21,21,204.0,0.07,88.49
+369,9188207,Google Laptop Sleeve Charcoal,1,11,11,11,204.0,0.07,88.55
+370,9196892,Google Large Pet Leash (Blue/Green),1,7,7,7,203.0,0.07,88.62
+371,9195246,Google Infant Charcoal Onesie,1,9,9,9,200.0,0.06,88.68
+372,9195201,Google F/C Longsleeve Ash,1,8,8,8,198.0,0.06,88.75
+373,9195938,Google Confetti Slim Task Pad,1,26,26,20,197.0,0.06,88.81
+374,9196806,Android Pocket Tee Green,1,7,7,7,196.0,0.06,88.87
+375,9196889,Google Medium Pet Collar (Blue/Green),1,6,6,6,196.0,0.06,88.94
+376,9195794,YouTube Icon Tee Charcoal,1,8,8,8,195.0,0.06,89.0
+377,9196861,Google Cork Journal,1,23,23,19,194.0,0.06,89.06
+378,9197005,Google Austin Campus Bottle,1,13,13,13,194.0,0.06,89.13
+379,9196666,Google Sherpa Zip Hoodie Charcoal,1,3,3,3,193.0,0.06,89.19
+380,9195881,Unisex Google Pocket Tee Grey,1,11,11,11,192.0,0.06,89.25
+381,9196654,Google Raincoat Navy,1,2,2,2,192.0,0.06,89.31
+382,9200344,Google Chrome Dino Light Up Water Bottle,1,7,7,7,191.0,0.06,89.38
+383,9195294,Snowflake Android Cardboard Sculpture,1,21,21,21,190.0,0.06,89.44
+384,9195802,YouTube Icon Tee Grey,1,9,9,9,186.0,0.06,89.5
+385,9196757,Google Men's Puff Jacket Black,1,2,2,2,184.0,0.06,89.56
+386,9184842,Google Tee Red,1,17,17,17,183.0,0.06,89.62
+387,9184979,Android Large Trace Journal Black,1,22,22,22,181.0,0.06,89.68
+388,9180842,Maze Pen,1,44,44,44,180.0,0.06,89.73
+389,9200324,Google Black Cloud Zip Hoodie,1,3,3,3,179.0,0.06,89.79
+390,9196830,Android Pocket Onesie Navy,1,9,9,9,178.0,0.06,89.85
+391,9196968,Google NYC Campus Zip Hoodie,1,5,5,5,178.0,0.06,89.91
+392,9188194,Google Mouse Pad Navy,1,25,25,25,177.0,0.06,89.96
+393,9196270,Google Mural Sticker Sheet,1,61,61,60,176.0,0.06,90.02
+394,9196851,Android Iconic Crewneck Sweatshirt,1,3,3,3,176.0,0.06,90.08
+395,9196864,Google Cork Pencil Pouch,1,18,18,18,176.0,0.06,90.14
+396,9200316,Google Aluminum Bottle Red,1,22,22,21,175.0,0.06,90.19
+397,9188311,Android Lumberjack Pin,1,30,30,25,174.0,0.06,90.25
+398,9197347,Google Boulder Campus Unisex Tee,1,10,10,10,172.0,0.06,90.3
+399,9188233,Google Phone Stand Bamboo,1,28,28,28,169.0,0.05,90.36
+400,9196995,Google Chicago Campus Zip Hoodie,1,5,5,5,169.0,0.05,90.41
+401,9196437,Stan and Friends Youth Tee Green,1,11,11,10,168.0,0.05,90.47
+402,9196710,Google Split Seam Tee Olive,1,7,7,7,168.0,0.05,90.52
+403,9196872,Google Felt Luggage Tag,1,20,20,20,168.0,0.05,90.58
+404,9196890,Google Large Pet Collar (Blue/Green),1,6,6,6,168.0,0.05,90.63
+405,9195942,Google Confetti Accessory Pouch,1,14,14,14,167.0,0.05,90.69
+406,9196811,Android Pocket Tee Navy,1,7,7,7,167.0,0.05,90.74
+407,9195799,YouTube Icon Tee Grey,1,9,9,8,166.0,0.05,90.79
+408,9196691,Google Youth Badge Tee Olive,1,9,9,9,166.0,0.05,90.85
+409,9196650,Google Sherpa Zip Hoodie Navy,1,3,3,3,165.0,0.05,90.9
+410,9184866,Google Tee Blue,1,15,15,15,163.0,0.05,90.95
+411,9196782,Google Maps Pin,1,23,23,23,163.0,0.05,91.01
+412,9196695,Google Youth Hero Tee Grey,1,8,8,8,162.0,0.05,91.06
+413,9196822,Android Pocket Toddler Tee Navy,1,9,9,9,162.0,0.05,91.11
+414,9197420,Google SF Campus Ladies Tee,1,10,10,10,162.0,0.05,91.16
+415,9197356,Google Boulder Campus Zip Hoodie,1,5,5,5,160.0,0.05,91.21
+416,9197989,Google Sunnyvale Campus Zip Hoodie,1,5,5,5,160.0,0.05,91.27
+417,9196740,Google Men's Softshell Moss,1,2,2,2,158.0,0.05,91.32
+418,9196749,Google Women's Softshell Moss,1,2,2,2,158.0,0.05,91.37
+419,9197372,Google Infant Hero Tee Olive,1,10,10,10,158.0,0.05,91.42
+420,9197379,Google LA Campus Unisex Tee,1,10,10,10,158.0,0.05,91.47
+421,9197953,Google Sunnyvale Campus Bottle,1,10,10,10,158.0,0.05,91.52
+422,9196698,Google Youth Hero Tee Maroon,1,8,8,8,157.0,0.05,91.57
+423,9196824,Android Pocket Toddler Tee Navy,1,8,8,8,154.0,0.05,91.62
+424,9196908,#IamRemarkable Unisex T-Shirt,1,13,13,13,153.0,0.05,91.67
+425,9197939,Google Decal,1,48,48,48,153.0,0.05,91.72
+426,9196712,Google Split Seam Tee Olive,1,7,7,5,152.0,0.05,91.77
+427,9196736,Google Cotopaxi Shell,1,4,4,4,152.0,0.05,91.82
+428,9194986,Google Women's Grid Zip-Up,1,3,3,3,150.0,0.05,91.87
+429,9195879,Unisex Google Pocket Tee Grey,1,9,9,9,148.0,0.05,91.92
+430,9196382,Google Mural Tote,1,10,10,10,148.0,0.05,91.97
+431,9196413,Google Beekeepers Tee Mint,1,10,10,10,148.0,0.05,92.01
+432,9184858,Google Tee Green,1,16,16,16,146.0,0.05,92.06
+433,9196840,Android Pocket Youth Tee Navy,1,5,5,5,145.0,0.05,92.11
+434,9195251,Google Youth FC Zip Hoodie,1,4,4,4,144.0,0.05,92.15
+435,9196419,Flamingo and Friends Tee Blue,1,9,9,9,144.0,0.05,92.2
+436,9197373,Google Infant Hero Tee Olive,1,9,9,9,144.0,0.05,92.25
+437,9185156,Google Crewneck Sweatshirt Grey,1,3,3,3,143.0,0.05,92.29
+438,9196642,Google Toddler Tee White,1,7,7,7,143.0,0.05,92.34
+439,9196829,Android Pocket Onesie Navy,1,7,7,7,143.0,0.05,92.39
+440,9196831,Android Pocket Onesie Navy,1,7,7,7,143.0,0.05,92.43
+441,9188256,Google Women's Black Tee,1,9,9,9,142.0,0.05,92.48
+442,9195553,Google Unisex Eco Tee Black,1,7,7,7,142.0,0.05,92.52
+443,9196772,Google Women's Tech Fleece Grey,1,2,2,2,142.0,0.05,92.57
+444,9196859,Google Recycled Pen Black,1,42,42,35,142.0,0.05,92.62
+445,9195797,YouTube Icon Tee Grey,1,6,6,6,141.0,0.05,92.66
+446,9197811,Google Medium Pet Collar (Red/Yellow),1,5,5,5,140.0,0.05,92.71
+447,9197969,Google Mountain View Campus Ladies Tee,1,9,9,9,140.0,0.05,92.75
+448,9197974,Google Sunnyvale Campus Ladies Tee,1,9,9,9,140.0,0.05,92.8
+449,9196643,Google Toddler Tee White,1,7,7,7,138.0,0.04,92.84
+450,9196644,Google Toddler Tee White,1,7,7,7,138.0,0.04,92.89
+451,9196714,Google Totepak,1,7,7,7,138.0,0.04,92.93
+452,9195926,Google Red Kids Sunglasses,1,24,24,23,137.0,0.04,92.98
+453,9196874,Google Felt Strap Keyring,1,12,12,12,137.0,0.04,93.02
+454,9197385,Google LA Campus Zip Hoodie,1,4,4,4,137.0,0.04,93.07
+455,9197708,Google PNW Campus Zip Hoodie,1,4,4,4,137.0,0.04,93.11
+456,9184980,Android Small Trace Journal Black,1,13,13,13,135.0,0.04,93.15
+457,9196893,Google Cork Key Ring,1,14,14,14,135.0,0.04,93.2
+458,9196414,Google Beekeepers Tee Mint,1,9,9,9,134.0,0.04,93.24
+459,9197370,Google Infant Hero Tee Olive,1,9,9,9,134.0,0.04,93.28
+460,9197963,Google Sunnyvale Campus Unisex Tee,1,9,9,9,134.0,0.04,93.33
+461,9196722,Google Women's Tech Fleece Vest Charcoal,1,3,3,3,132.0,0.04,93.37
+462,9199203,Google Land & Sea French Terry Sweatshirt,1,3,3,3,132.0,0.04,93.41
+463,9199204,Google Land & Sea French Terry Sweatshirt,1,3,3,3,132.0,0.04,93.46
+464,9196823,Android Pocket Toddler Tee Navy,1,7,7,7,131.0,0.04,93.5
+465,9196451,Google Beekeepers Toddler Tee Pink,1,9,9,8,130.0,0.04,93.54
+466,9196868,Stainless Straight Straw/Cleaner,1,19,19,19,130.0,0.04,93.58
+467,9196960,Google NYC Campus Ladies Tee,1,8,8,7,130.0,0.04,93.62
+468,9196906,#IamRemarkable Unisex T-Shirt,1,9,9,9,129.0,0.04,93.67
+469,9196420,Flamingo and Friends Tee Blue,1,8,8,8,128.0,0.04,93.71
+470,9196970,Google NYC Campus Zip Hoodie,1,4,4,4,128.0,0.04,93.75
+471,9197354,Google Boulder Campus Zip Hoodie,1,4,4,3,128.0,0.04,93.79
+472,9197355,Google Boulder Campus Zip Hoodie,1,4,4,4,128.0,0.04,93.83
+473,9197978,Google Mountain View Campus Zip Hoodie,1,4,4,4,128.0,0.04,93.87
+474,9197981,Google Mountain View Campus Zip Hoodie,1,4,4,4,128.0,0.04,93.92
+475,9197987,Google Sunnyvale Campus Zip Hoodie,1,4,4,4,128.0,0.04,93.96
+476,9196692,Google Youth Badge Tee Olive,1,5,5,5,127.0,0.04,94.0
+477,9195846,Google Pen Citron,1,48,48,47,126.0,0.04,94.04
+478,9196433,Stan and Friends Onesie Green,1,9,9,9,126.0,0.04,94.08
+479,9196452,Google Beekeepers Onesie Pink,1,9,9,9,126.0,0.04,94.12
+480,9196776,Google Sherpa Vest Black,1,2,2,2,126.0,0.04,94.16
+481,9196953,Google NYC Campus Unisex Tee,1,9,9,9,126.0,0.04,94.2
+482,9196268,Google Large White Gift Bag 5/PK,1,10,10,10,125.0,0.04,94.24
+483,9199126,Google Land & Sea Tech Taco,1,23,23,23,125.0,0.04,94.28
+484,9196428,Stan and Friends Tee Green,1,8,8,8,124.0,0.04,94.32
+485,9196913,#IamRemarkable Ladies T-Shirt,1,11,11,11,123.0,0.04,94.36
+486,9196689,Google Youth Badge Tee Olive,1,9,9,9,121.0,0.04,94.4
+487,9195225,Google Youth FC Tee Charcoal,1,5,5,5,120.0,0.04,94.44
+488,9196407,Android Garden Tee Orange,1,7,7,7,120.0,0.04,94.48
+489,9196687,Google Youth Badge Tee Navy,1,8,8,8,120.0,0.04,94.52
+490,9197391,Google LA Campus Ladies Tee,1,7,7,7,120.0,0.04,94.56
+491,9196700,Google Youth Hero Tee Maroon,1,5,5,5,119.0,0.04,94.6
+492,9197812,Google Large Pet Collar (Red/Yellow),1,4,4,4,119.0,0.04,94.63
+493,9196429,Stan and Friends Tee Green,1,8,8,8,116.0,0.04,94.67
+494,9196926,Google Cambridge Campus Unisex Tee,1,8,8,8,116.0,0.04,94.71
+495,9196981,Google Chicago Campus Unisex Tee,1,8,8,7,116.0,0.04,94.75
+496,9196681,Google Toddler Hero Tee Olive,1,5,5,5,114.0,0.04,94.78
+497,9197415,Google SF Campus Zip Hoodie,1,3,3,3,114.0,0.04,94.82
+498,9194991,Google Women's Grid Zip-Up,1,2,2,2,113.0,0.04,94.86
+499,9197399,Google LA Campus Bottle,1,10,10,10,113.0,0.04,94.89
+500,9190336,YouTube Small Sticker Sheet,1,6,6,6,112.0,0.04,94.93
+501,9196445,Google Beekeepers Youth Tee Pink,1,7,7,7,112.0,0.04,94.97
+502,9196959,Google NYC Campus Ladies Tee,1,8,8,8,112.0,0.04,95.0
+503,9197371,Google Infant Hero Tee Olive,1,8,8,8,112.0,0.04,95.04
+504,9185161,Google Crewneck Sweatshirt Grey,1,2,2,2,110.0,0.04,95.07
+505,9196688,Google Youth Badge Tee Navy,1,5,5,5,110.0,0.04,95.11
+506,9196841,Android Pocket Youth Tee Navy,1,4,4,4,110.0,0.04,95.15
+507,9196821,Android Pocket Toddler Tee Navy,1,5,5,5,109.0,0.04,95.18
+508,9195252,Google Youth FC Zip Hoodie,1,3,3,3,108.0,0.03,95.22
+509,9196845,Android Iconic Sticker Sheet,1,12,12,12,107.0,0.03,95.25
+510,9195842,Google Pen Bright Blue,1,46,46,45,106.0,0.03,95.29
+511,9196237,Android Puzzlebot v2,1,7,7,3,106.0,0.03,95.32
+512,9188231,Google Recycled Notebook Set Natural,1,9,9,9,105.0,0.03,95.35
+513,9196685,Google Youth Badge Tee Navy,1,7,7,7,105.0,0.03,95.39
+514,9196690,Google Youth Badge Tee Olive,1,7,7,7,105.0,0.03,95.42
+515,9195744,Google Dino Game Tee,1,3,3,3,104.0,0.03,95.46
+516,9196411,Google Beekeepers Tee Mint,1,6,6,6,102.0,0.03,95.49
+517,9196432,Stan and Friends Onesie Green,1,7,7,7,102.0,0.03,95.52
+518,9196442,Stan and Friends Toddler Tee Green,1,7,7,6,102.0,0.03,95.55
+519,9197381,Google LA Campus Unisex Tee,1,5,5,5,102.0,0.03,95.59
+520,9197392,Google LA Campus Ladies Tee,1,6,6,6,102.0,0.03,95.62
+521,9197405,Google SF Campus Unisex Tee,1,7,7,7,102.0,0.03,95.65
+522,9197955,Google Mountain View Campus Unisex Tee,1,6,6,6,102.0,0.03,95.69
+523,9197396,Google LA Campus Tote,1,14,14,14,100.0,0.03,95.72
+524,9196744,Google Men's Softshell Moss,1,1,1,1,99.0,0.03,95.75
+525,9199207,Google Land & Sea French Terry Sweatshirt,1,2,2,2,99.0,0.03,95.78
+526,9195011,Google Men's Discovery Lt. Rain Shell,1,2,2,2,98.0,0.03,95.82
+527,9195016,Google Women's Discovery Lt. Rain Shell,1,2,2,2,98.0,0.03,95.85
+528,9195017,Google Women's Discovery Lt. Rain Shell,1,2,2,2,98.0,0.03,95.88
+529,9195790,YouTube Icon Tee Charcoal,1,5,5,5,98.0,0.03,95.91
+530,9196443,Stan and Friends Toddler Tee Green,1,7,7,7,98.0,0.03,95.94
+531,9196961,Google NYC Campus Ladies Tee,1,6,6,6,98.0,0.03,95.97
+532,9197015,Google Austin Campus Ladies Tee,1,7,7,7,98.0,0.03,96.01
+533,9197591,Google Kirkland Campus Unisex Tee,1,6,6,6,98.0,0.03,96.04
+534,9195208,Google Tudes Recycled Tee,1,4,4,4,96.0,0.03,96.07
+535,9195826,YouTube Standards Zip Hoodie Black,1,1,1,1,96.0,0.03,96.1
+536,9195883,Unisex Google Pocket Tee Grey,1,6,6,6,96.0,0.03,96.13
+537,9195910,Womens Google Striped LS,1,6,6,6,96.0,0.03,96.16
+538,9196686,Google Youth Badge Tee Navy,1,5,5,5,96.0,0.03,96.19
+539,9196964,Google NYC Campus Zip Hoodie,1,3,3,3,96.0,0.03,96.22
+540,9197041,Google Toddler Hero Tee Black,1,6,6,6,96.0,0.03,96.25
+541,9197985,Google Sunnyvale Campus Zip Hoodie,1,3,3,3,96.0,0.03,96.29
+542,9196641,Google Toddler Tee White,1,5,5,5,95.0,0.03,96.32
+543,9196683,Google Toddler Hero Tee Olive,1,5,5,5,95.0,0.03,96.35
+544,9195908,Youth Jumbo Print Tee White,1,6,6,6,92.0,0.03,96.38
+545,9197040,Google Toddler Hero Tee Black,1,6,6,6,92.0,0.03,96.41
+546,9188264,Google Tee Grey,1,9,9,9,90.0,0.03,96.44
+547,9196835,Android Pocket Youth Tee Green,1,4,4,4,90.0,0.03,96.47
+548,9188314,Android Hipster Pin,1,9,9,9,89.0,0.03,96.49
+549,9195847,Google Pen Red,1,27,27,27,89.0,0.03,96.52
+550,9196703,Google Red YoYo,1,21,21,21,89.0,0.03,96.55
+551,9195555,Google Unisex Eco Tee Black,1,2,2,2,88.0,0.03,96.58
+552,9196423,Flamingo and Friends Tee Blue,1,5,5,5,88.0,0.03,96.61
+553,9196440,Stan and Friends Toddler Tee Green,1,6,6,6,88.0,0.03,96.64
+554,9196704,Google Blue YoYo,1,20,20,20,88.0,0.03,96.67
+555,9196725,Google Women's Tech Fleece Vest Charcoal,1,2,2,2,88.0,0.03,96.69
+556,9199206,Google Land & Sea French Terry Sweatshirt,1,2,2,2,88.0,0.03,96.72
+557,9196904,#IamRemarkable Lapel Pin,1,13,13,13,86.0,0.03,96.75
+558,9188333,Google Tonal Tee Coral,1,7,7,7,85.0,0.03,96.78
+559,9195844,Google Pen Lilac,1,31,31,31,85.0,0.03,96.81
+560,9196269,Google Pride Sticker,1,43,43,39,84.0,0.03,96.83
+561,9196426,Stan and Friends Tee Green,1,6,6,6,84.0,0.03,96.86
+562,9196798,Android Iconic Pen,1,19,19,19,84.0,0.03,96.89
+563,9197968,Google Mountain View Campus Ladies Tee,1,6,6,6,84.0,0.03,96.91
+564,9197042,Google Toddler Hero Tee Black,1,5,5,5,83.0,0.03,96.94
+565,9195843,Google Pen Neon Coral,1,30,30,30,82.0,0.03,96.97
+566,9196912,#IamRemarkable Ladies T-Shirt,1,8,8,8,82.0,0.03,96.99
+567,9197329,#IamRemarkable Pen,1,4,4,4,82.0,0.03,97.02
+568,9197585,Google Seattle Campus Sticker,1,27,27,27,82.0,0.03,97.05
+569,9195941,Google Striped Penny Pouch,1,15,15,15,81.0,0.03,97.07
+570,9196909,#IamRemarkable Unisex T-Shirt,1,7,7,7,81.0,0.03,97.1
+571,9195737,Google Campus Bike Eco Tee Navy,1,4,4,4,80.0,0.03,97.13
+572,9195796,YouTube Icon Tee Charcoal,1,4,4,4,80.0,0.03,97.15
+573,9196949,Google NYC Campus Lapel Pin,1,23,23,23,80.0,0.03,97.18
+574,9197992,Google Jotter Task Pad,1,5,5,5,80.0,0.03,97.2
+575,9196746,Google Women's Softshell Moss,1,1,1,1,79.0,0.03,97.23
+576,9195907,Youth Jumbo Print Tee White,1,4,4,4,78.0,0.03,97.25
+577,9195920,Google Summer19 Crew Grey,1,2,2,2,78.0,0.03,97.28
+578,9196919,#IamRemarkable Unisex Hoodie,1,3,3,3,78.0,0.03,97.31
+579,9197039,Google Toddler Hero Tee Black,1,6,6,6,78.0,0.03,97.33
+580,9184856,Google Tee Yellow,1,7,7,7,76.0,0.02,97.36
+581,9188200,Google Pen Grey,1,30,30,28,76.0,0.02,97.38
+582,9195795,YouTube Icon Tee Charcoal,1,4,4,4,76.0,0.02,97.4
+583,9196285,Google Women's Pride Eco-Tee Black,1,5,5,5,76.0,0.02,97.43
+584,9196684,Google Toddler Hero Tee Olive,1,4,4,4,76.0,0.02,97.45
+585,9196896,Google Cork Tablet Case,1,4,4,4,76.0,0.02,97.48
+586,9196971,Google NYC Campus Sticker,1,39,39,39,76.0,0.02,97.5
+587,9197398,Google LA Campus Sticker,1,36,36,32,76.0,0.02,97.53
+588,9196286,Google Women's Pride Eco-Tee Black,1,6,6,6,75.0,0.02,97.55
+589,9196807,Android Pocket Tee Green,1,3,3,3,75.0,0.02,97.58
+590,9196438,Stan and Friends Youth Tee Green,1,5,5,5,74.0,0.02,97.6
+591,9196453,Google Beekeepers Onesie Pink,1,4,4,4,74.0,0.02,97.62
+592,9197359,Google Boulder Campus Ladies Tee,1,5,5,4,74.0,0.02,97.65
+593,9197962,Google Sunnyvale Campus Unisex Tee,1,4,4,4,74.0,0.02,97.67
+594,9197973,Google Sunnyvale Campus Ladies Tee,1,4,4,4,74.0,0.02,97.7
+595,9197388,Google LA Campus Zip Hoodie,1,2,2,2,73.0,0.02,97.72
+596,9196639,Google Red Speckled Tee,1,3,3,3,72.0,0.02,97.74
+597,9188313,Android Geek Pin,1,6,6,6,71.0,0.02,97.77
+598,9196773,Google Women's Tech Fleece Grey,1,1,1,1,71.0,0.02,97.79
+599,9196999,Google Chicago Campus Tote,1,7,7,7,71.0,0.02,97.81
+600,9195024,Google Women's Kirkland Pullover,1,2,2,2,70.0,0.02,97.83
+601,9196434,Stan and Friends Onesie Green,1,4,4,4,70.0,0.02,97.86
+602,9197007,Google Austin Campus Unisex Tee,1,5,5,5,70.0,0.02,97.88
+603,9197346,Google Boulder Campus Unisex Tee,1,5,5,5,70.0,0.02,97.9
+604,9196815,Android Pocket Tee Navy,1,3,3,3,69.0,0.02,97.92
+605,9195909,Youth Jumbo Print Tee White,1,3,3,3,67.0,0.02,97.95
+606,9196267,Google Small White Gift Bag 5/PK,1,9,9,9,65.0,0.02,97.97
+607,9196404,Android Garden Tee Orange,1,1,1,1,65.0,0.02,97.99
+608,9196839,Android Pocket Youth Tee Navy,1,3,3,3,65.0,0.02,98.01
+609,9196871,Google Tech Taco,1,12,12,12,65.0,0.02,98.03
+610,9195389,Google Youth F/C Pullover Hoodie,1,2,2,2,64.0,0.02,98.05
+611,9195765,Google Tee Mint Green,1,4,4,4,64.0,0.02,98.07
+612,9196405,Android Garden Tee Orange,1,4,4,3,64.0,0.02,98.09
+613,9197018,Google Austin Campus Zip Hoodie,1,2,2,2,64.0,0.02,98.11
+614,9197022,Google Austin Campus Zip Hoodie,1,2,2,2,64.0,0.02,98.13
+615,9197982,Google Mountain View Campus Zip Hoodie,1,2,2,2,64.0,0.02,98.16
+616,9197990,Google Sunnyvale Campus Zip Hoodie,1,2,2,2,64.0,0.02,98.18
+617,9194992,Google Women's Grid Zip-Up,1,1,1,1,63.0,0.02,98.2
+618,9196778,Google Sherpa Vest Black,1,1,1,1,63.0,0.02,98.22
+619,9196802,Android Iconic Pin,1,16,16,16,63.0,0.02,98.24
+620,9195010,Google Men's Discovery Lt. Rain Shell,1,1,1,1,62.0,0.02,98.26
+621,9196705,Google Yellow YoYo,1,16,16,16,62.0,0.02,98.28
+622,9188193,Google Cloth & Pouch Black,1,6,6,6,60.0,0.02,98.3
+623,9196415,Google Beekeepers Tee Mint,1,4,4,4,60.0,0.02,98.32
+624,9196833,Android Pocket Youth Tee Green,1,3,3,3,60.0,0.02,98.34
+625,9196932,Google Cambridge Campus Ladies Tee,1,3,3,3,60.0,0.02,98.35
+626,9199079,Google Land & Sea Women's Eco Tee,1,3,3,3,60.0,0.02,98.37
+627,9197565,Google PNW Campus Tote,1,6,6,6,59.0,0.02,98.39
+628,9195076,Google Tee F/C Black,1,3,3,3,58.0,0.02,98.41
+629,9199168,BLM Unisex Pullover Hoodie,1,1,1,1,58.0,0.02,98.43
+630,9196425,Stan and Friends Tee Green,1,4,4,4,56.0,0.02,98.45
+631,9196444,Google Beekeepers Youth Tee Pink,1,2,2,2,56.0,0.02,98.47
+632,9196448,Google Beekeepers Toddler Tee Pink,1,4,4,4,56.0,0.02,98.49
+633,9196454,Google Beekeepers Onesie Pink,1,4,4,4,56.0,0.02,98.5
+634,9196987,Google Chicago Campus Ladies Tee,1,4,4,4,56.0,0.02,98.52
+635,9197419,Google SF Campus Ladies Tee,1,3,3,3,56.0,0.02,98.54
+636,9197597,Google Kirkland Campus Ladies Tee,1,3,3,3,56.0,0.02,98.56
+637,9197813,Google Medium Pet Leash (Red/Yellow),1,2,2,2,56.0,0.02,98.58
+638,9197970,Google Mountain View Campus Ladies Tee,1,4,4,4,56.0,0.02,98.59
+639,9195845,Google Pen Grass Green,1,27,27,26,55.0,0.02,98.61
+640,9196726,Google Women's Tech Fleece Vest Charcoal,1,1,1,1,55.0,0.02,98.63
+641,9196923,Google Cambridge Campus Bottle,1,5,5,5,55.0,0.02,98.65
+642,9197367,Google Boulder Campus Bottle,1,4,4,4,55.0,0.02,98.67
+643,9199225,Google Land & Sea Mug,1,3,3,3,55.0,0.02,98.68
+644,9200318,Google Black Cloud Zip Hoodie,1,1,1,1,55.0,0.02,98.7
+645,9195207,Google Tudes Recycled Tee,1,2,2,2,54.0,0.02,98.72
+646,9196408,Android Garden Tee Orange,1,3,3,3,52.0,0.02,98.74
+647,9196844,Android Iconic 4&quot; Decal,1,14,14,14,50.0,0.02,98.75
+648,9195012,Google Women's Discovery Lt. Rain Shell,1,1,1,1,49.0,0.02,98.77
+649,9195209,Google Tudes Recycled Tee,1,1,1,1,48.0,0.02,98.78
+650,9195934,Google Confetti Pen White,1,21,21,21,48.0,0.02,98.8
+651,9196406,Android Garden Tee Orange,1,3,3,3,48.0,0.02,98.81
+652,9196627,Google Navy Speckled Tee,1,2,2,2,48.0,0.02,98.83
+653,9196634,Google Red Speckled Tee,1,2,2,2,48.0,0.02,98.85
+654,9184961,YouTube Women's Favorite Tee White,1,5,5,5,47.0,0.02,98.86
+655,9196867,Stainless Bent Straw/Cleaner,1,13,13,13,46.0,0.01,98.88
+656,9197366,Google Boulder Campus Sticker,1,21,21,21,46.0,0.01,98.89
+657,9188270,Google Tee Grey,1,5,5,5,45.0,0.01,98.9
+658,9196619,Google Crewneck Sweatshirt Green,1,1,1,1,44.0,0.01,98.92
+659,9196852,Android Iconic Crewneck Sweatshirt,1,1,1,1,44.0,0.01,98.93
+660,9196853,Android Iconic Crewneck Sweatshirt,1,1,1,1,44.0,0.01,98.95
+661,9196943,Google Cambridge Campus Sticker,1,18,18,18,44.0,0.01,98.96
+662,9197424,Google SF Campus Lapel Pin,1,13,13,13,44.0,0.01,98.98
+663,9196441,Stan and Friends Toddler Tee Green,1,3,3,3,42.0,0.01,98.99
+664,9196449,Google Beekeepers Toddler Tee Pink,1,3,3,3,42.0,0.01,99.0
+665,9196860,Google Recycled Pen Green,1,11,11,11,42.0,0.01,99.02
+666,9196962,Google NYC Campus Ladies Tee,1,3,3,3,42.0,0.01,99.03
+667,9196986,Google Chicago Campus Ladies Tee,1,2,2,2,42.0,0.01,99.04
+668,9197383,Google LA Campus Unisex Tee,1,2,2,2,42.0,0.01,99.06
+669,9197573,Google Seattle Campus Unisex Tee,1,2,2,2,42.0,0.01,99.07
+670,9197579,Google Seattle Campus Ladies Tee,1,3,3,3,42.0,0.01,99.09
+671,9197971,Google Mountain View Campus Ladies Tee,1,3,3,3,42.0,0.01,99.1
+672,9195803,YouTube Icon Tee Grey,1,2,2,2,40.0,0.01,99.11
+673,9196905,#IamRemarkable Unisex T-Shirt,1,4,4,4,40.0,0.01,99.12
+674,9199077,Google Land & Sea Women's Eco Tee,1,2,2,2,40.0,0.01,99.14
+675,9197003,Google Austin Campus Lapel Pin,1,11,11,11,39.0,0.01,99.15
+676,9196682,Google Toddler Hero Tee Olive,1,2,2,2,38.0,0.01,99.16
+677,9196730,Google Cotopaxi Shell,1,1,1,1,38.0,0.01,99.17
+678,9196900,#IamRemarkable Tote,1,6,6,6,38.0,0.01,99.19
+679,9180867,Google Frisbee,1,17,17,17,36.0,0.01,99.2
+680,9195554,Google Unisex Eco Tee Black,1,2,2,2,36.0,0.01,99.21
+681,9197397,Google LA Campus Lapel Pin,1,11,11,11,36.0,0.01,99.22
+682,9197993,Android Jotter Task Pad,1,10,10,10,36.0,0.01,99.23
+683,9195714,Google Women's Eco Tee Black,1,1,1,1,35.0,0.01,99.25
+684,9195030,Google Tudes Thermal Bottle,1,1,1,1,32.0,0.01,99.26
+685,9195390,Google Youth F/C Pullover Hoodie,1,1,1,1,32.0,0.01,99.27
+686,9195740,Google Dino Game Tee,1,1,1,1,32.0,0.01,99.28
+687,9196409,Android Garden Tee Orange,1,2,2,2,32.0,0.01,99.29
+688,9196421,Flamingo and Friends Tee Blue,1,2,2,2,32.0,0.01,99.3
+689,9196865,Google Bottle Cleaner,1,3,3,3,32.0,0.01,99.31
+690,9196910,#IamRemarkable Unisex T-Shirt,1,3,3,3,32.0,0.01,99.32
+691,9196929,Google Cambridge Campus Unisex Tee,1,2,2,2,32.0,0.01,99.33
+692,9196933,Google Cambridge Campus Ladies Tee,1,2,2,2,32.0,0.01,99.34
+693,9196937,Google Cambridge Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.35
+694,9196940,Google Cambridge Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.36
+695,9196969,Google NYC Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.37
+696,9197019,Google Austin Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.38
+697,9197357,Google Boulder Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.39
+698,9197382,Google LA Campus Unisex Tee,1,2,2,2,32.0,0.01,99.4
+699,9197384,Google LA Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.41
+700,9197404,Google SF Campus Unisex Tee,1,2,2,2,32.0,0.01,99.42
+701,9197979,Google Mountain View Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.43
+702,9197980,Google Mountain View Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.44
+703,9197983,Google Mountain View Campus Zip Hoodie,1,1,1,1,32.0,0.01,99.45
+704,9197947,Google Sunnyvale Campus Sticker,1,13,13,13,31.0,0.01,99.46
+705,9196944,Google Cambridge Campus Tote,1,4,4,4,30.0,0.01,99.47
+706,9197949,Google Sunnyvale Campus Tote,1,5,5,5,30.0,0.01,99.48
+707,9184848,Google Tee Red,1,3,3,3,29.0,0.01,99.49
+708,9197946,Google Mountain View Campus Sticker,1,10,10,10,29.0,0.01,99.5
+709,9195759,Google Tee Mint Green,1,2,2,2,28.0,0.01,99.51
+710,9196416,Google Beekeepers Tee Mint,1,2,2,2,28.0,0.01,99.52
+711,9196446,Google Beekeepers Youth Tee Pink,1,2,2,2,28.0,0.01,99.53
+712,9196455,Google Beekeepers Onesie Pink,1,2,2,2,28.0,0.01,99.54
+713,9196456,Google Beekeepers Onesie Pink,1,2,2,2,28.0,0.01,99.55
+714,9196988,Google Chicago Campus Ladies Tee,1,2,2,2,28.0,0.01,99.55
+715,9197016,Google Austin Campus Ladies Tee,1,2,2,2,28.0,0.01,99.56
+716,9197361,Google Boulder Campus Ladies Tee,1,2,2,2,28.0,0.01,99.57
+717,9197560,Google PNW Campus Ladies Tee,1,2,2,2,28.0,0.01,99.58
+718,9197581,Google Seattle Campus Ladies Tee,1,2,2,2,28.0,0.01,99.59
+719,9197595,Google Kirkland Campus Unisex Tee,1,2,2,2,28.0,0.01,99.6
+720,9197596,Google Kirkland Campus Ladies Tee,1,2,2,2,28.0,0.01,99.61
+721,9197598,Google Kirkland Campus Ladies Tee,1,2,2,2,28.0,0.01,99.62
+722,9197975,Google Sunnyvale Campus Ladies Tee,1,2,2,2,28.0,0.01,99.63
+723,9197976,Google Sunnyvale Campus Ladies Tee,1,2,2,2,28.0,0.01,99.64
+724,9196920,#IamRemarkable Unisex Hoodie,1,1,1,1,26.0,0.01,99.65
+725,9196834,Android Pocket Youth Tee Green,1,1,1,1,25.0,0.01,99.65
+726,9196836,Android Pocket Youth Tee Green,1,1,1,1,25.0,0.01,99.66
+727,9196976,Google Chicago Campus Lapel Pin,1,7,7,7,25.0,0.01,99.67
+728,9195213,Google Tudes Recycled Tee,1,1,1,1,24.0,0.01,99.68
+729,9195888,Unisex Google Jumbo Print Tee White,1,2,2,2,24.0,0.01,99.68
+730,9196620,Google Heather Green Speckled Tee,1,1,1,1,24.0,0.01,99.69
+731,9196799,Android Iconic Bottle Black,1,1,1,1,24.0,0.01,99.7
+732,9197364,Google Boulder Campus Tote,1,4,4,4,24.0,0.01,99.71
+733,9197567,Google PNW Campus Sticker,1,9,9,9,24.0,0.01,99.72
+734,9197602,Google Kirkland Campus Sticker,1,9,9,9,24.0,0.01,99.72
+735,9196803,Android Pocket Tee Green,1,1,1,1,23.0,0.01,99.73
+736,9196804,Android Pocket Tee Green,1,1,1,1,23.0,0.01,99.74
+737,9196810,Android Pocket Tee Navy,1,1,1,1,23.0,0.01,99.75
+738,9197584,Google Seattle Campus Lapel Pin,1,7,7,7,23.0,0.01,99.75
+739,9196915,#IamRemarkable Ladies T-Shirt,1,2,2,2,22.0,0.01,99.76
+740,9196713,Google Split Seam Tee Olive,1,1,1,1,21.0,0.01,99.77
+741,9197566,Google PNW Campus Lapel Pin,1,7,7,7,21.0,0.01,99.77
+742,9196837,Android Pocket Youth Tee Green,1,1,1,1,20.0,0.01,99.78
+743,9197604,Google Bellevue Campus Sticker,1,7,7,7,20.0,0.01,99.79
+744,9199081,Google Land & Sea Women's Eco Tee,1,1,1,1,20.0,0.01,99.79
+745,9196696,Google Youth Hero Tee Grey,1,1,1,1,19.0,0.01,99.8
+746,9188325,Google Tonal Tee Spearmint,1,2,2,2,18.0,0.01,99.81
+747,9195793,YouTube Icon Tee Charcoal,1,1,1,1,18.0,0.01,99.81
+748,9195800,YouTube Icon Tee Grey,1,1,1,1,18.0,0.01,99.82
+749,9196430,Stan and Friends Tee Green,1,1,1,1,18.0,0.01,99.82
+750,9196925,Google Cambridge Campus Unisex Tee,1,1,1,1,18.0,0.01,99.83
+751,9197562,Google PNW Campus Ladies Tee,1,1,1,1,18.0,0.01,99.83
+752,9197564,Google PNW Campus Ladies Tee,1,1,1,1,18.0,0.01,99.84
+753,9197972,Google Mountain View Campus Ladies Tee,1,1,1,1,18.0,0.01,99.85
+754,9197365,Google Boulder Campus Lapel Pin,1,4,4,4,17.0,0.01,99.85
+755,9195878,Unisex Google Pocket Tee Grey,1,1,1,1,16.0,0.01,99.86
+756,9195880,Unisex Google Pocket Tee Grey,1,1,1,1,16.0,0.01,99.86
+757,9195914,Womens Google Striped LS,1,1,1,1,16.0,0.01,99.87
+758,9196418,Flamingo and Friends Tee Blue,1,1,1,1,16.0,0.01,99.87
+759,9196422,Flamingo and Friends Tee Blue,1,1,1,1,16.0,0.01,99.88
+760,9196921,Google Cambridge Campus Lapel Pin,1,5,5,5,15.0,0.0,99.88
+761,9195745,Google Mountain View Tee Red,1,1,1,1,14.0,0.0,99.89
+762,9195780,Google Women's Ringer Tee,1,1,1,1,14.0,0.0,99.89
+763,9196435,Stan and Friends Onesie Green,1,1,1,1,14.0,0.0,99.9
+764,9196439,Stan and Friends Youth Tee Green,1,1,1,1,14.0,0.0,99.9
+765,9196450,Google Beekeepers Toddler Tee Pink,1,1,1,1,14.0,0.0,99.91
+766,9196930,Google Cambridge Campus Unisex Tee,1,1,1,1,14.0,0.0,99.91
+767,9196963,Google NYC Campus Ladies Tee,1,1,1,1,14.0,0.0,99.91
+768,9196980,Google Chicago Campus Unisex Tee,1,1,1,1,14.0,0.0,99.92
+769,9196985,Google Chicago Campus Unisex Tee,1,1,1,1,14.0,0.0,99.92
+770,9197006,Google Austin Campus Unisex Tee,1,1,1,1,14.0,0.0,99.93
+771,9197345,Google Boulder Campus Unisex Tee,1,1,1,1,14.0,0.0,99.93
+772,9197348,Google Boulder Campus Unisex Tee,1,1,1,1,14.0,0.0,99.94
+773,9197351,Google Boulder Campus Unisex Tee,1,1,1,1,14.0,0.0,99.94
+774,9197360,Google Boulder Campus Ladies Tee,1,1,1,1,14.0,0.0,99.95
+775,9197393,Google LA Campus Ladies Tee,1,1,1,1,14.0,0.0,99.95
+776,9197395,Google LA Campus Ladies Tee,1,1,1,1,14.0,0.0,99.96
+777,9197561,Google PNW Campus Ladies Tee,1,1,1,1,14.0,0.0,99.96
+778,9197563,Google PNW Campus Ladies Tee,1,1,1,1,14.0,0.0,99.96
+779,9197590,Google Kirkland Campus Unisex Tee,1,1,1,1,14.0,0.0,99.97
+780,9197600,Google Kirkland Campus Ladies Tee,1,1,1,1,14.0,0.0,99.97
+781,9197711,Google PNW Campus Unisex Tee,1,1,1,1,14.0,0.0,99.98
+782,9197712,Google PNW Campus Unisex Tee,1,1,1,1,14.0,0.0,99.98
+783,9195070,Google Tee F/C Black,1,1,1,1,12.0,0.0,99.99
+784,9195075,Google Tee F/C Black,1,1,1,1,12.0,0.0,99.99
+785,9196914,#IamRemarkable Ladies T-Shirt,1,1,1,1,10.0,0.0,99.99
+786,9188206,Google Separating Keyring,1,1,1,1,6.0,0.0,100.0
+787,9188230,Android Flex Journal White,1,2,2,2,6.0,0.0,100.0
+788,9197601,Google Kirkland Campus Lapel Pin,1,2,2,2,6.0,0.0,100.0
+789,9184832,Google Light Pen Yellow,1,1,1,1,2.0,0.0,100.0

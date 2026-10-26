@@ -1,0 +1,4 @@
+device_category,started_sessions,view_sessions,cart_sessions,checkout_sessions,strict_purchase_sessions,any_purchase_sessions,start_to_view_pct,view_to_cart_pct,cart_to_checkout_pct,checkout_to_purchase_pct,strict_funnel_completion_pct,purchase_presence_pct
+desktop,205899,43654,8116,2923,1550,2695,21.2,18.59,36.02,53.03,0.75,1.31
+mobile,141079,29669,5629,2048,1125,1949,21.03,18.97,36.38,54.93,0.8,1.38
+tablet,7879,1651,298,109,60,101,20.95,18.05,36.58,55.05,0.76,1.28
